@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Lora:wght@700&display=swap');
+
+.div-wrap {
+    text-align: center;
+}
+
+.p-header {
+    color: #121212;
+    margin-left: 620px;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: Lora;
+    height: 48px;
+    width: 359px;
+}
+.line{
+    
+    border: 2px;
+    margin-left: 90px;
+    width: 200px;
+}
+.div-cards{
+    display: flex;
+    gap: 54px;
+}
+.p-card1{
+    color: #121212;
+    padding-left: 133px;
+    height: 36px;   
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Lora;
+    width: 229px;
+}
+.img1{
+    padding-top: 80px;
+    width: 300px;
+    padding-left: 100px;
+    height: 250px
+
+
+}
+.p2-card1{
+    color: #a19e95;
+    padding-left: 100px;
+    height: 168px;
+    width: 300px;
+    font-family: Lora;
+}
+.img2{
+    padding-top: 80px;
+    width: 300px;
+    height: 250px
+
+}
+.p-card2{
+    color: #121212;
+    padding-left: 65px;
+    height: 36px;   
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Lora;
+    width: 229px;
+}
+.p2-card2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #a19e95;
+    height: 168px;
+    width: 300px;
+    font-family: Lora;
+}
+.img3{
+    padding-top: 80px;
+    width: 300px;
+    height: 250px
+}
+.p-card3{
+    color: #121212;
+    padding-left: 30px;
+    height: 36px;   
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Lora;
+    width: 229px;
+}
+.p2-card3{
+    font-size: 16px;
+    font-weight: 400;
+    color: #a19e95;
+    height: 168px;
+    width: 300px;
+    font-family: Lora; 
+}
+.img4{
+    padding-top: 80px;
+    width: 300px;
+    height: 250px  
+}
+.p-card4{
+    color: #121212;
+    padding-left: 30px;
+    height: 36px;   
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Lora;
+    width: 229px;
+}
+.p2-card4{
+    font-size: 16px;
+    font-weight: 400;
+    color: #a19e95;
+    height: 168px;
+    width: 300px;
+    font-family: Lora;
+}
